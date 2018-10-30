@@ -1,0 +1,7 @@
+.outputTix {
+  border-style: solid;
+}
+
+#show-tickets {
+  display: none;
+}
